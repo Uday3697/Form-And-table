@@ -1,0 +1,11 @@
+
+
+.formContainer{
+    text-align: center;
+    box-sizing: border-box;
+    border: 1px solid lightblue;
+    align-items: center;
+}
+input {
+    width: 30%;
+  }
